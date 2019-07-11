@@ -2,10 +2,9 @@
 Version=1.0
 Type=Application
 Name=AVD
-Icon=/home/hp/.icons/avd_1.png
-Exec=/home/hp/Android/Sdk/emulator/./emulator @Pixel_2_API_27
-Comment=Pie @ Pixel - KNDCSE Android Virtual Device
+Icon=/home/user_name/.icons/avd_1.png
+Exec=/home/user_name/Android/Sdk/emulator/./emulator @avd_device_name(Spaces are allowed)
 Categories=Development;IDE;
 Terminal=false
 StartupNotify=true
-Comment[en_IN]=Android Virtual Device
+Comment=Android Virtual Device
